@@ -5,7 +5,7 @@
 <h1 align="center">Hi there👋,David Here</h1>
 <h3 align="center">A passionate Game developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
 
 <!--<p align="left" width="100"> <img src="https://komarev.com/ghpvc/?username=davidskumar&label=Profile%20views&color=0e75b6&style=flat" alt="davidskumar" /> </p>-->
 
