@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e3/7c/21/e37c2105950eb3d999f38ddc6cad2860.gif)](https://github.com/Davidskumar)
+[![MasterHead](https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915)](https://github.com/Davidskumar)
 
 <h1 align="center">Hi 👋, I'm David Sanjeet Kumar</h1>
 <h3 align="center">A passionate Game developer from India</h3>
