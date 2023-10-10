@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/e3/7c/21/e37c2105950eb3d999f38ddc6cad2860.gif)]
+[![MasterHead](https://i.pinimg.com/originals/e3/7c/21/e37c2105950eb3d999f38ddc6cad2860.gif)](https://github.com/Davidskumar)
 
-<h1 align="center">Hi there 👋, David here</h1>
+<h1 align="center">Hi 👋, I'm David Sanjeet Kumar</h1>
 <h3 align="center">A passionate Game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif](https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidskumar&label=Profile%20views&color=0e75b6&style=flat" alt="davidskumar" /> </p>
 
