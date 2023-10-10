@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm David Sanjeet Kumar</h1>
 <h3 align="center">A passionate Game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidskumar&label=Profile%20views&color=0e75b6&style=flat" alt="davidskumar" /> </p>
 
@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://davidskumar.github.io/resume/](https://davidskumar.github.io/resume/)
 
 - ⚡ Fun fact **Google rents goats to mow its headquarters' lawn.**
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davidxz28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidxz28" height="30" width="40" /></a>
