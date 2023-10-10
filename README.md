@@ -1,5 +1,5 @@
 <a href="https://github.com/Davidskumar">
-  <img src="https://i.pinimg.com/originals/bd/7b/23/bd7b23c6c0e9db7583c988c4a4727692.gif" alt="MasterHead" width="400">
+  <img src="https://i.pinimg.com/originals/bd/7b/23/bd7b23c6c0e9db7583c988c4a4727692.gif" alt="MasterHead" width="800">
 </a>
 
 <h1 align="center">Hi 👋, I'm David Sanjeet Kumar</h1>
