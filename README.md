@@ -1,10 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/e3/7c/21/e37c2105950eb3d999f38ddc6cad2860.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Davidskumar)
 
 <h1 align="center">Hi 👋, I'm David Sanjeet Kumar</h1>
 <h3 align="center">A passionate Game developer from India</h3>
 
 
-<p align="left" width="200"> <img src="https://komarev.com/ghpvc/?username=davidskumar&label=Profile%20views&color=0e75b6&style=flat" alt="davidskumar" /> </p>
+<p align="left" width="100"> <img src="https://komarev.com/ghpvc/?username=davidskumar&label=Profile%20views&color=0e75b6&style=flat" alt="davidskumar" /> </p>
 
 - 🔭 I’m currently working on **Project Zero**
 
