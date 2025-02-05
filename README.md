@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **davidskumarxz@gmail.com**
 
-- 📄 Know about my experiences [https://davidskumar.github.io/resume/](https://davidskumar.github.io/resume/)
+- 📄 Know about my experiences [https://davidskumar.github.io/GDResume/](https://davidskumar.github.io/GDResume/)
 
 - ⚡ Fun fact **Google rents goats to mow its headquarters' lawn.**
 
