@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi there👋,David Here</h1>
-<h3 align="center">A passionate Game developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
 
